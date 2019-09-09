@@ -14,5 +14,3 @@ COPY . .
 
 RUN adduser -D cafafanscoders
 USER cafafanscoders
-
-# CMD [ "python", "./your-daemon-or-script.py" ]
